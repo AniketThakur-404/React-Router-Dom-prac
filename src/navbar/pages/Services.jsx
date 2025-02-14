@@ -2,7 +2,7 @@ import React from 'react'
 
 const Services = () => {
   return (
-    <div>Services</div>
+    <div className='pages'> welcome to Services page</div>
   )
 }
 

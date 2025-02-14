@@ -34,3 +34,10 @@
     margin-right: 10px;
     font-size: large;
 }
+.pages{
+    display: flex;
+    justify-content: left;
+    margin-right: 40px;
+    margin-top: 10px;
+    font-size: 40px;
+}
